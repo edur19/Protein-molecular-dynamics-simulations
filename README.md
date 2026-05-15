@@ -6,8 +6,10 @@ The study included the analysis of RMSD, RMSF, radius of gyration, and energy pr
 This course was taken during my Master's exchange in Heidelberg, offered by the Max Planck Institute for Polymer Research in collaboration with Heidelberg University.
 https://www.mpip-mainz.mpg.de/ws-2025-26-lectures-and-hands-on-sessions-in-computational-molecular-biophysics
 
+
 ## Folder Description
 md_vacuum/
+<img width="2534" height="1586" alt="image" src="https://github.com/user-attachments/assets/e2b408a5-2184-4d8c-8949-1c4077c075cf" />
 
 Contains molecular dynamics simulations performed under vacuum conditions without explicit solvent molecules.
 
@@ -22,6 +24,7 @@ RMSD and gyration analyses (rmsd.xvg, gyrate.xvg)
 protein structure snapshots (.pdb, .gro)
 
 md_solvated/
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/b20cae03-d36d-42b0-9fd0-83610ff232ca" />
 
 Contains molecular dynamics simulations performed in an explicit water-solvated environment.
 
