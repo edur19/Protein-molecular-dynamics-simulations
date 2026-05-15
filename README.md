@@ -1,0 +1,1 @@
+The pdf is the exam realized using gromacs to analyzed the moledcular dynamics simulations in a protein under solvated and vacuum conditions. It was analyzed the RMSD, RMSF, radius of gyration and energy profiles, demonstrating the critical role of solvent in maintaning structural stability and realistic behavior
